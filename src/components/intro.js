@@ -3,6 +3,7 @@ import ServiceProvider from "./serviceProvider";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 const intro = () => {
+  const a = 5;
   return (
     <article className="intro-main">
       <div className="intro-screen">
